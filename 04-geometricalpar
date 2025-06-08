@@ -1,0 +1,10 @@
+      cpus	 20
+      read       2
+      title      dbh-unsub
+      index      index-S0
+      mode       3
+      ref        dbh-unsub.xyz  
+      track      B 3 4 B 3 6 B 4 7 B 6 7 A 3 5 4 D 15 2 3 5
+      threshold  10
+      print      1-500
+      prod       1-500

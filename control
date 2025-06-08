@@ -1,0 +1,11 @@
+      input	 dbh-unsub.freq.molden
+      temp	 300
+      method     wigner
+      partition  lopez
+      time	 30-00:00:00
+      memory     2000
+      nodes	 20
+      cores	 25
+      jobs	 25
+      index	 1
+

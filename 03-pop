@@ -1,0 +1,10 @@
+      cpus	 20
+      read       2
+      title      dbh-unsub
+      index      index-S0
+      mode       3
+      ref        dbh-unsub.xyz
+      track      RMSD
+      threshold  10
+      save       1
+      prod       1-500
